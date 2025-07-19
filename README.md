@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🌟 OASIS x Sanity Integration Demo
 
 **A complete integration between OASIS (Web3 Universal Operating System) and Sanity CMS for content-driven dApp generation.**
@@ -280,3 +281,6 @@ This project is part of the OASIS platform and follows the same licensing terms.
 **Built with ❤️ by the OASIS team**
 
 *"A man on a mission to build OASIS" - MagicMax* 
+=======
+# OASIS-Sanity-Integration-Demo
+>>>>>>> 03b99e0cec625e6ff8c52681fc23232e52ce6894
